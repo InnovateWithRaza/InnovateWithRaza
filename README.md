@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  data analysis projects using Python, SQL, Excel, and Tableau<br>👯 I’m looking to collaborate on open-source datasets, analytics challenges, and dashboard projects<br>🤝 I’m looking for help with advanced data visualization and predictive analytics<br>🌱 I’m currently learning Machine learning, Python libraries like Pandas, NumPy, and Matplotlib , Power BI and Tableau for interactive dashboards<br>💬 Ask me about data cleaning, analysis, visualization, and business insights<br>⚡ Fun fact i turn messy datasets into actionable insights
+🔭 I’m currently working on  data analysis projects using Python, SQL, Excel, Power BI and Tableau<br>👯 I’m looking to collaborate on open-source datasets, analytics challenges, and dashboard projects<br>🤝 I’m looking for help with advanced data visualization and predictive analytics<br>🌱 I’m currently learning Machine learning, Python libraries like Pandas, NumPy, and Matplotlib , Power BI and Tableau for interactive dashboards<br>💬 Ask me about data cleaning, analysis, visualization, and business insights<br>⚡ Fun fact i turn messy datasets into actionable insights
 
 
 ## 🌐 Socials:
